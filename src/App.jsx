@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div className="flex flex-col justify-center items-center min-h-screen px-4 bg-gradient-to-r from-red-500 via-green-400 to-green-300">
-      <div className="text-center p-6 md:p-8 bg-white shadow-xl rounded-lg max-w-lg w-full">
+      <div className="text-center p-5 md:p-8 bg-white shadow-xl rounded-lg max-w-lg w-full">
         <h1 className="text-3xl md:text-4xl font-italic text-purple-600 mb-4 sm:mb-6">
           Cat Fact Generator
         </h1>
